@@ -1,0 +1,6 @@
+Gemma is provided under and subject to the Gemma Terms of Use found at gemma.ai/resources/terms
+(a copy is included in this repository as GEMMA_TERMS_OF_USE.md).
+
+terminal-brain.litertlm is a Model Derivative of FunctionGemma 270M (Google).
+MODIFIED: it was fine-tuned by the Terminal Agent developer to turn short phone requests
+(English, Arabic, Arabizi) into Terminal Agent commands, then converted to LiteRT-LM (int8) format.
